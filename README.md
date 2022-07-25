@@ -56,9 +56,10 @@ Study Language  = [
 <p><img src="https://cdn3.emoji.gg/emojis/8936-instagram-animated.gif" height="15px"> Instagram: @_.alexglez </p>
 
 
+
+<a href="https://github.com/LucidCode007"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+  
   
 - 🍷 Java & Python Developer
 - 🐍 CiberSecurity Member
-  
-<a href="https://github.com/LucidCode007"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
