@@ -61,5 +61,5 @@ Study Language  = [
   
   
 - 🍷 Java & Python Developer
-- 🐍 CiberSecurity Member
+- 🐍 CiberSecurity Amateur
   
