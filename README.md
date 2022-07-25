@@ -16,7 +16,7 @@
 
 ```
 Skills Language  = [
-  { name: "🟠 HTML & CSS"},
+  { name: "🟠 C# & C++"},
   { name: "🟡 Java"},
   { name: "🔵 Python"}
 ]
@@ -24,8 +24,8 @@ Skills Language  = [
 
 ```
 Study Language  = [
-  { name: "🟢 C++"},
-  { name: "🟣 PHP"},
+  { name: "🟢 Perl"},
+  { name: "🟣 Go"},
   { name: "🟤 Ruby"}
 ]
 ```
