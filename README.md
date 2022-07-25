@@ -14,7 +14,7 @@
     
 
 
-```js
+```
 const Skills Language  = [
   { name: "🟠 HTML & CSS"},
   { name: "🟡 Java"},
@@ -22,7 +22,7 @@ const Skills Language  = [
 ]
 ```
 
-```js
+```
 const Study Language  = [
   { name: "🟢 C++"},
   { name: "🟣 PHP"},
