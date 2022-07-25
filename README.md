@@ -51,9 +51,9 @@ const Study Language  = [
 <h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
 
 <div> </div>
-<p><img src="https://emoji.gg/assets/emoji/7953-discord-lex.png" height="15px"> Discord: alex,,#0001</p>
+<p><img src="https://cdn3.emoji.gg/emojis/1842-discord-logo.png" height="15px"> Discord: alex,,#0001</p>
 <div> </div>
-<p><img src="https://cdn3.emoji.gg/emojis/4281-instagram-logo.png" height="15px"> YouTube: @_.alexglez | https://instagram.com/_.alexglez/
+<p><img src="https://cdn3.emoji.gg/emojis/4281-instagram-logo.png" height="15px"> Instagram: @_.alexglez | https://instagram.com/_.alexglez/
 
 
   
