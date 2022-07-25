@@ -8,7 +8,7 @@
 
 <p>
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+Im+LucidCode">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+LucidCode">
     </div>
     </p>
 
