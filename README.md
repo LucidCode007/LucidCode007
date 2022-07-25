@@ -48,7 +48,7 @@ Study Language  = [
 
 <a href="https://github.com/LucidCode007"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h3>
+<h2><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Redes Sociales </h2>
 
 
 <p><img src="https://cdn3.emoji.gg/emojis/3318-dripdiscordlogo.gif" height="20px"> Discord: alex,,#0001</p>
