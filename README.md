@@ -7,14 +7,11 @@
 </p>
 
 <p>
+  <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+LucidCode">
+   </div>
     </p>
     
-  <style>
-    .img-container {
-    text-align: center;
-      }
-    </style>
 
 
 ```js
