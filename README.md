@@ -15,7 +15,7 @@
 
 
 ```
-const Skills Language  = [
+Skills Language  = [
   { name: "🟠 HTML & CSS"},
   { name: "🟡 Java"},
   { name: "🔵 Python"}
@@ -23,7 +23,7 @@ const Skills Language  = [
 ```
 
 ```
-const Study Language  = [
+Study Language  = [
   { name: "🟢 C++"},
   { name: "🟣 PHP"},
   { name: "🟤 Ruby"}
