@@ -57,7 +57,6 @@ const Study Language  = [
 
 
   
-- ⚡ PHP  & SQL Manager
 - 🍷 Java & Python Developer
 - 🐍 CiberSecurity Member
   
