@@ -16,16 +16,16 @@
 
 ```
 Skills Language  = [
-  { name: "🟠 C# & C++"},
+  { name: "🔵C# & C++"},
   { name: "🟡 Java"},
-  { name: "🔵 Python"}
+  { name: "🟢 Python"}
 ]
 ```
 
 ```
 Study Language  = [
-  { name: "🟢 Perl"},
-  { name: "🟣 Go"},
+  { name: "🟣 Perl"},
+  { name: "🔴 Go"},
   { name: "🟤 Ruby"}
 ]
 ```
