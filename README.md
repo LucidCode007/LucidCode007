@@ -53,7 +53,7 @@ const Study Language  = [
 <div> </div>
 <p><img src="https://cdn3.emoji.gg/emojis/3318-dripdiscordlogo.gif" height="20px"> Discord: alex,,#0001</p>
 <div> </div>
-<p><img src="https://cdn3.emoji.gg/emojis/8936-instagram-animated.gif" height="20px"> Instagram: @_.alexglez | https://instagram.com/_.alexglez/
+<p><img src="https://cdn3.emoji.gg/emojis/8936-instagram-animated.gif" height="15px"> Instagram: @_.alexglez | https://instagram.com/_.alexglez/
 
 
   
