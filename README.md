@@ -51,7 +51,7 @@ Study Language  = [
 <h2><img src="https://emoji.gg/assets/emoji/1343-arrowright.png" height="15px"> Social Networks </h2>
 
 
-<p><img src="https://cdn3.emoji.gg/emojis/3318-dripdiscordlogo.gif" height="20px"> Discord: alex,,#0001</p>
+<p><img src="https://cdn3.emoji.gg/emojis/3318-dripdiscordlogo.gif" height="20px"> Discord: alex,,#1234</p>
 
 <p><img src="https://cdn3.emoji.gg/emojis/8936-instagram-animated.gif" height="15px"> Instagram: @_.alexglez </p>
 
